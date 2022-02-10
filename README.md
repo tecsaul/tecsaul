@@ -6,8 +6,6 @@
 
 Gusto de visitar el perfil de 👨‍🏫 ✨ saul nuñez parra ✨.
 
-Atendiendo estudiantes de PFLC y TecTijuana:
-
 - ⚡ Soy alumno del TEC !
 
 

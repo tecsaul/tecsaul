@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://sites.google.com/a/tectijuana.edu.mx/2016_08_tbd_8/4-seguridad)
 
-<!--
-**tecsaul/tecsaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-Here are some ideas to get you started:
+### Hola bro 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gusto de visitar el perfil de 👨‍🏫 ✨ saul nuñez parra ✨.
+
+Atendiendo estudiantes de PFLC y TecTijuana:
+
+- ⚡ Soy alumno del TEC !
+
+
+

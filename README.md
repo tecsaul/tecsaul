@@ -3,7 +3,7 @@
 
 ### Hola bro 👋
 
-Gusto de visitar el perfil de 👨‍🏫 ✨ saul nuñez parra ✨.
+Gusto de visitar el perfil de ✨ saul nuñez parra ✨.
 
 - ⚡ Soy alumno del TEC !
 

@@ -5,7 +5,7 @@
 
 Gusto de visitar el perfil de ✨ saul nuñez parra ✨.
 
-- ⚡ Soy alumno del TEC !
+- ⚡ Soy Egresado del Tec !
 
 
 

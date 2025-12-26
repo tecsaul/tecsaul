@@ -16,11 +16,13 @@
   <h2>Habilidades Técnicas</h2>
   <div class="card">
     <ul>
+      <li>Aprendizaje rapido</li>
       <li>SQL Server: administración, backups, restores</li>
       <li>Optimización de consultas y rendimiento</li>
       <li>Migración de bases de datos entre servidores</li>
       <li>C# con conexión a SQL Server</li>
       <li>Procedimientos almacenados y control de accesos</li>
+      <li>Experiencia entre otros lenguages nivel bajo, python entre otros, pero nada como un poco de libros para recordar </li>
     </ul>
   </div>
 
@@ -42,14 +44,14 @@
 
   <h2>Contacto</h2>
   <div class="card">
-    <p>Email: tuemail@email.com</p>
-    <p>GitHub: https://github.com/tuusuario</p>
-    <p>LinkedIn: https://linkedin.com/in/tuusuario</p>
+    <p>Email: reviveops@gmail.com</p>
+    <p>GitHub: https://github.com/tecsaul</p>
+    <p>LinkedIn: https://www.linkedin.com/in/saulnp/</p>
   </div>
 </section>
 
 <footer>
-  <p>© 2025 Analista de Base de Datos</p>
+  <p>© 2024 Derechos reservados</p>
 </footer>
 
 </body>

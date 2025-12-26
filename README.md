@@ -4,7 +4,6 @@
 
 <header>
   <h1>Analista de Base de Datos</h1>
-  <p>SQL Server · C# · Migración de Servidores</p>
 </header>
 
 <section>

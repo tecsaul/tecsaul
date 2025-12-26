@@ -1,20 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portafolio | Analista de Base de Datos</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; color: #333; }
-    header { background: #1f2937; color: white; padding: 2rem; }
-    section { padding: 2rem; max-width: 900px; margin: auto; }
-    h1, h2 { color: #111827; }
-    header h1, header p { color: white; }
-    .card { background: white; padding: 1.5rem; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-    footer { background: #1f2937; color: white; text-align: center; padding: 1rem; }
-    ul { padding-left: 20px; }
-  </style>
-</head>
 <body>
 
 <header>
